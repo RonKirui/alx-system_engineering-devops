@@ -1,0 +1,2 @@
+#!/bin/bash
+chown --ffrom=guillaume betty hello
